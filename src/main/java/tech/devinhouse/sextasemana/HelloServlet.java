@@ -1,4 +1,4 @@
-package tech.devinhouse.m01s06servlet;
+package tech.devinhouse.sextasemana;
 
 import java.io.*;
 
